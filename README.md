@@ -1,12 +1,94 @@
-# React + Vite
+# 🍽️ Dish-Dash
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive food ordering web application built using React. Dish-Dash allows users to explore dishes, view details, and enjoy a seamless UI experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+## 📌 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* 🔍 Browse different food items
+* 📄 View detailed dish information
+* 🛒 Add items to cart *(if implemented)*
+* 📱 Fully responsive design
+* ⚡ Fast and smooth UI with React
+
+---
+
+## 🛠️ Tech Stack
+
+* Frontend: React.js, JavaScript, HTML, CSS
+* Styling: CSS / Tailwind 
+* Version Control: Git & GitHub
+
+---
+
+## 📂 Project Structure
+
+```
+Dish-Dash/
+│── public/
+│── src/
+│   ├── components/
+│   ├── pages/
+│   ├── assets/
+│   ├── App.js
+│   └── index.js
+│── package.json
+│── README.md
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+Follow these steps to run the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/code-with-deep/Dish-Dash.git
+
+# Navigate to project folder
+cd Dish-Dash
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+
+
+---
+
+## 📈 Future Improvements
+
+* 🔐 User authentication
+* 💳 Payment integration
+* 📦 Order tracking system
+* 🌐 Backend integration
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature-name`)
+3. Commit changes (`git commit -m 'Added new feature'`)
+4. Push to branch (`git push origin feature-name`)
+5. Open a Pull Request
+
+---
+
+## 📧 Contact
+
+👤 Deep Kumar
+📌 GitHub: https://github.com/code-with-deep
+
+---
+
+## ⭐ If you like this project
+
+Give it a ⭐ on GitHub — it helps a lot!
